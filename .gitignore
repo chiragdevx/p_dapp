@@ -2,6 +2,7 @@
 
 # dependencies
 dapp/node_modules
+contracts/node_modules
 /node_modules
 /.pnp
 .pnp.js
