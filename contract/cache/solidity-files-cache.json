@@ -1,7 +1,7 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/home/chirag/Documents/DApps/dwitter/contracts/contracts/Greeter.sol": {
+    "/home/chirag/Documents/DApps/dwitter/contract/contracts/Greeter.sol": {
       "lastModificationDate": 1655222847400,
       "contentHash": "54c28c84e5277b35b8c8329ce9755dae",
       "sourceName": "contracts/Greeter.sol",
@@ -38,7 +38,7 @@
         "Greeter"
       ]
     },
-    "/home/chirag/Documents/DApps/dwitter/contracts/node_modules/hardhat/console.sol": {
+    "/home/chirag/Documents/DApps/dwitter/contract/node_modules/hardhat/console.sol": {
       "lastModificationDate": 1655222777316,
       "contentHash": "cc4777addd464ea56fa35b1c45df0591",
       "sourceName": "hardhat/console.sol",
